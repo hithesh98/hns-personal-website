@@ -4867,10 +4867,11 @@ body,
 p {
   font-weight: 390;
   letter-spacing: 0.8px;
-  line-height: 25px;
+  line-height: 23px;
+  font-size: 1.2rem;
 }
 p {
-  margin: 0 0 15px;
+  margin: 0 0 10px;
 }
 .h2,
 h2 {
